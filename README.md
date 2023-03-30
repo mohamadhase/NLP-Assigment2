@@ -6,7 +6,6 @@ For text preprocessing, I used the following libraries:
 
 
 -   NLTK
--   BeautifulSoup
 -   Regex
 
 I performed the following preprocessing steps on the text data:
